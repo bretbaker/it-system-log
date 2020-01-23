@@ -1,40 +1,35 @@
 {
   "logs": [
     {
-      "message": "test 0",
-      "attention": false,
+      "id": 1,
+      "message": "test 2",
+      "attention": true,
       "tech": "John Doe",
-      "date": "2020-01-23T00:01:47.510Z",
-      "id": 1
+      "date": "2020-01-23T19:20:14.062Z"
     },
     {
       "id": 2,
-      "message": "test 1",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-01-23T00:02:21.801Z"
+      "message": "test 3",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-01-23T19:20:33.964Z"
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Jason",
+      "lastName": "Adams",
+      "id": 1
     },
     {
       "firstName": "James",
-      "lastName": "Murphy",
-      "id": 4
+      "lastName": "Jeffrey",
+      "id": 2
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Loophole",
+      "id": 3
     }
   ]
 }
